@@ -36,7 +36,8 @@ sequenceDiagram
     deactivate server
 
     Note right of browser: The browser executes the callback function that renders the notes
-
+```
+```mermaid
 sequenceDiagram
     title: Exercise 0.5: Single page app diagram
     participant browser
@@ -65,7 +66,8 @@ sequenceDiagram
     deactivate server
 
     Note right of browser: The browser executes the callback function that renders the notes
-
+```
+```mermaid
 sequenceDiagram
     title: Solution of exercise 0.6: New note SPA diagram
     participant browser
