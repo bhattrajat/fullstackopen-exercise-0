@@ -1,5 +1,6 @@
 # fullstackopen-exercise-0
 
+```mermaid
 sequenceDiagram
     title: Solution of exercise 0.4: New note diagram
     participant browser
@@ -79,5 +80,5 @@ sequenceDiagram
     deactivate server
 
     Note right of browser: Since there is no redirect there won't be any page refresh from browser side
-
+```
     
